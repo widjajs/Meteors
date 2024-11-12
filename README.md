@@ -6,3 +6,5 @@ Instructions:
 - bigger meteors give more points
 - getting hit by a meteor takes away a life
 - run out of lives and game over
+
+Run MeteorFrame.java (Meteors/src/game/MeteorFrame.java) to launch game
